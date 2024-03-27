@@ -1,0 +1,19 @@
+.text-center{
+    font-size: 80px;
+    font-style: italic;
+}
+h1 span{
+    color: antiquewhite;
+}
+.container-fluid{
+    background-color: antiquewhite;
+}
+#btn{
+    background-color: antiquewhite;
+}
+div .card-header{
+    background-color: antiquewhite;
+}
+.card-footer .btn-bb{
+    background-color: antiquewhite;
+}
